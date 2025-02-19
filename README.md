@@ -1,5 +1,10 @@
 ### Hi there, I am Quoc 👋
+<h3 align="left"> Stats </h3>
+<div>
+<img src="https://raw.githubusercontent.com/caodoc/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 
+<img src="https://raw.githubusercontent.com/caodoc/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+</div>
 <!--
 **kinhquocne/kinhquocne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
