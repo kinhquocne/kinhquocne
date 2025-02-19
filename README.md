@@ -1,10 +1,6 @@
 ### Hi there, I am Quoc 👋
-<h3 align="left"> Stats </h3>
-<div>
-<img src="https://raw.githubusercontent.com/caodoc/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 
-<img src="https://raw.githubusercontent.com/caodoc/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinhquocne)](https://github.com/kinhquocne/github-readme-stats)
 <!--
 **kinhquocne/kinhquocne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
