@@ -1,12 +1,9 @@
 ### Hi there, I am Quoc 👋
 
 <h3 align="left"> Stats </h3>
-<div>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinhquocne&show_icons=true&theme=dracula)](https://github.com/kinhquocne/github-readme-stats)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinhquocne&hide_progress=true&theme=dracula)
-</div>
+<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api?username=kinhquocne&show_icons=true&theme=dracula"/>
+
+<img align="left" width="43%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kinhquocne&theme=dracula&layout=compact"/> 
 <!--
 **kinhquocne/kinhquocne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
