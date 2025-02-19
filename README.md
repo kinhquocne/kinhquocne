@@ -1,6 +1,8 @@
 ### Hi there, I am Quoc 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinhquocne&show_icons=true&theme=dark)](https://github.com/kinhquocne/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinhquocne&hide_progress=true&theme=dark)
 <!--
 **kinhquocne/kinhquocne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
